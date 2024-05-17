@@ -1,0 +1,5 @@
+async-timeout==4.0.3
+cerebus @ file:///home/amd/code/centrals_redis_adapter/dependencies/cerebus-0.4-cp39-cp39-linux_x86_64.whl
+Cython==3.0.10
+numpy==1.26.4
+redis==5.0.4
